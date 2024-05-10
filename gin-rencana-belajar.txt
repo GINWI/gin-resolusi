@@ -5,6 +5,9 @@ RENCANA BELAJAR GIN
 - Bahasa Indonesia
   * Teks Diskusi
   * Teks Cerita Inspiratif
+  * Teks Eksposisi
+  * Teks Eksplanasi
+  * Teks Berita
 - Matematika
   * Kesebangunan & Kekongruenan
   * Bangun  Ruang 
