@@ -3,5 +3,7 @@ RENCANA BELAJAR GIN
   * Sakramen Imamat
   * Sakramen Perkawinan
 - Bahasa Indonesia
+  * Teks Diskusi
+  * Teks Cerita Inspiratif
 - Matematika
 - Pendidikan Pancasila Kewarganegaraan
